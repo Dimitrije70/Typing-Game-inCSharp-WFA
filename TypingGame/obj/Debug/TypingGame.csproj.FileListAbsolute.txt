@@ -1,0 +1,9 @@
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.csprojAssemblyReference.cache
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.Form1.resources
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.cache
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Димитрије\Програмирање\Моји Пројекти\TypingGame\TypingGame\obj\Debug\TypingGame.pdb
